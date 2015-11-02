@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=num\ den
+comment0.target=Rational(int,\ int)
+comment1.params=f2
+comment1.target=void\ add(Rational)
+comment2.params=f2
+comment2.target=void\ sub(Rational)
+comment3.params=f2
+comment3.target=void\ mul(Rational)
+comment4.params=f2
+comment4.target=void\ div(Rational)
+comment5.params=denom1\ denom2
+comment5.target=int\ getlcf(int,\ int)
+comment6.params=
+comment6.target=int\ getNumerator()
+comment7.params=
+comment7.target=int\ getDenomenator()
+numComments=8
